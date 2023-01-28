@@ -27,10 +27,10 @@ This repository is designed for anyone who wants to become a machine learning en
 ## Problem solving
 [프로그래머스 코딩 테스트 입문 100제](https://school.programmers.co.kr/learn/challenges?utm_source=google&utm_medium=cpc&utm_campaign=codingtest_test&utm_content=%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8&utm_term=&gclid=CjwKCAiArNOeBhAHEiwAze_nKA0add9ucnnlSkePQ3zwa0Gd9KN-o42ZrlrGFjrpn69AFm4fQUwgWxoCl9cQAvD_BwE&order=acceptance_desc&page=1&levels=0&languages=python3)
 
-## Numpy 기본문법
+## Numpy Library
 * [Numpy](/numpy/basic/README.md)
 
-## Pandas 기본문법
+## Pandas Library
 * [Pandas](/pandas/basic/README.md)
 
 ## 데이터 시각화
