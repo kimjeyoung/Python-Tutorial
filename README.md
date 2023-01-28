@@ -6,6 +6,7 @@
 * [Anaconda 가상환경 세팅하기](/setup/anaconda/README.md)
 
 ## 파이썬 기본문법
+* [파이썬 소개](/grammer/intro/README.md)
 * [Hello World!](/grammer/hello_world/README.md)
 * [사칙연산](/grammer/operations/README.md)
 * [반복문](/grammer/loop/README.md)
