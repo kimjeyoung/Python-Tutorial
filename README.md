@@ -10,7 +10,6 @@
 * [사칙연산](/grammer/operations/README.md)
 * [반복문](/grammer/loop/README.md)
 * [리스트,튜플,딕셔너리](/grammer/data_type/README.md)
-* [리스트,튜플,딕셔너리](/grammer/hello_world/README.md)
 * [문자열](/grammer/string/README.md)
 * [정렬](/grammer/sorting/README.md)
 * [함수](/grammer/function/README.md)
