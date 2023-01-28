@@ -6,7 +6,7 @@ This repository is designed to provide a comprehensive introduction to deep lear
 
 The repository covers a wide range of practical applications of deep learning, including image recognition, natural language processing and more. The repository also includes case studies and real-world examples to help readers understand the potential of deep learning and its potential to solve complex problems.
 
-This repository is designed for anyone who wants to become a machine learning engineer. It is also a great resource for students and professionals who want to learn more about deep learning and its applications. 
+This repository is designed for anyone who wants to become a machine learning engineer :)
 
 
 ## 개발환경 세팅하기
