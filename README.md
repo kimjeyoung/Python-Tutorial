@@ -9,19 +9,19 @@ The repository covers a wide range of practical applications of deep learning, i
 This repository is designed for anyone who wants to become a machine learning engineer :)
 
 
-## 개발환경 세팅하기
+## Setup
 * [Visual Studio 설치](/setup/visual_studio/README.md)
 * [Anaconda 가상환경 세팅하기](/setup/anaconda/README.md)
 
-## 파이썬 기본문법
-* [파이썬 소개](/grammer/intro/README.md)
-* [사칙연산](/grammer/operations/README.md)
-* [반복문](/grammer/loop/README.md)
-* [리스트,튜플,딕셔너리](/grammer/data_type/README.md)
-* [문자열](/grammer/string/README.md)
-* [정렬](/grammer/sorting/README.md)
-* [함수](/grammer/function/README.md)
-* [클래스](/grammer/class/README.md)
+## Python Basic Syntax
+* [Introduction](/grammer/intro/README.md)
+* [Arithmetic](/grammer/operations/README.md)
+* [Loop](/grammer/loop/README.md)
+* [List,Tuple,Dict](/grammer/data_type/README.md)
+* [String](/grammer/string/README.md)
+* [Sorting](/grammer/sorting/README.md)
+* [Function](/grammer/function/README.md)
+* [Class](/grammer/class/README.md)
 
 ## Problem solving
 [프로그래머스 코딩 테스트 입문 100제](https://school.programmers.co.kr/learn/challenges?utm_source=google&utm_medium=cpc&utm_campaign=codingtest_test&utm_content=%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8&utm_term=&gclid=CjwKCAiArNOeBhAHEiwAze_nKA0add9ucnnlSkePQ3zwa0Gd9KN-o42ZrlrGFjrpn69AFm4fQUwgWxoCl9cQAvD_BwE&order=acceptance_desc&page=1&levels=0&languages=python3)
