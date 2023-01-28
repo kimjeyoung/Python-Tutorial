@@ -16,7 +16,17 @@
 * [클래스](/grammer/class/README.md)
 
 ## Problem solving
-[프로그래머스 코딩 테스트 노션 페이지](https://www.notion.so/Problem-Solving-e7a22ba8a7e843f5b2d75fb29011a1f4)
+[프로그래머스 코딩 테스트 입문 100제](https://school.programmers.co.kr/learn/challenges?utm_source=google&utm_medium=cpc&utm_campaign=codingtest_test&utm_content=%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8&utm_term=&gclid=CjwKCAiArNOeBhAHEiwAze_nKA0add9ucnnlSkePQ3zwa0Gd9KN-o42ZrlrGFjrpn69AFm4fQUwgWxoCl9cQAvD_BwE&order=acceptance_desc&page=1&levels=0&languages=python3)
+
+## Numpy 기본문법
+* [Numpy](/numpy/basic/README.md)
+
+## Pandas 기본문법
+* [Pandas](/pandas/basic/README.md)
+
+## 데이터 시각화
+* [Matplotlib](/visualization/matplotlib/README.md)
+
 
 ## 코드로 배우는 머신러닝 기본 개념
 * [Logistic Regression](/ml_code/logistic_regression/README.md)
