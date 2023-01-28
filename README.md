@@ -1,4 +1,4 @@
-# ML-Tutorial for beginners
+# Machine Learning Tutorial for Beginners
 
 Deep learning is a rapidly growing field within machine learning, and has the ability to solve problems that traditional machine learning methods cannot. With the increasing demand for artificial intelligence and automation, deep learning has become an essential skill for machine learning engineers.
 
