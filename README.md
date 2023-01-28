@@ -15,7 +15,6 @@ This repository is designed for anyone who wants to become a machine learning en
 
 ## 파이썬 기본문법
 * [파이썬 소개](/grammer/intro/README.md)
-* [Hello World!](/grammer/hello_world/README.md)
 * [사칙연산](/grammer/operations/README.md)
 * [반복문](/grammer/loop/README.md)
 * [리스트,튜플,딕셔너리](/grammer/data_type/README.md)
