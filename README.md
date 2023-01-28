@@ -1,6 +1,20 @@
-# Python-Tutorial for ML engineers
-Python tutorial for beginner :)
+# ML-Tutorial for beginner
 
+
+## 개발환경 세팅하기
+* [Visual Studio 설치](/setup/visual_studio/README.md)
+* [Anaconda 가상환경 세팅하기](/setup/anaconda/README.md)
+
+## 파이썬 기본문법
+* [Hello World!](/grammer/hello_world/README.md)
+* [사칙연산](/grammer/operations/README.md)
+* [반복문](/grammer/loop/README.md)
+* [리스트,튜플,딕셔너리](/grammer/data_type/README.md)
+* [리스트,튜플,딕셔너리](/grammer/hello_world/README.md)
+* [문자열](/grammer/string/README.md)
+* [정렬](/grammer/sorting/README.md)
+* [함수](/grammer/function/README.md)
+* [클래스](/grammer/class/README.md)
 
 ## Problem solving
 [프로그래머스 코딩 테스트 노션 페이지](https://www.notion.so/Problem-Solving-e7a22ba8a7e843f5b2d75fb29011a1f4)
