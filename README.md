@@ -53,7 +53,7 @@ This repository is designed for anyone who wants to become a machine learning en
 * [Object detection](/paper/object_detection/README.md)
 * [Generative modeling](/paper/generative_modeling/README.md)
 
-## Natural Language Processing Paper List
+## Natural Language Processing (NLP) Paper List
 * [Language model](/paper/lm/README.md)
 * [Pretrained language model](/paper/plm/README.md)
 * [Translation](/paper/translation/README.md)
