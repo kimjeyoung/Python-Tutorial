@@ -48,27 +48,27 @@ This repository is designed for anyone who wants to become a machine learning en
 ## 머신러닝 알고리즘 실제 데이터에 적용해보기
 * [Kaggle House Price Prediction](/kaggle/house_price_prediction/README.md)
 
-## 읽어보면 좋은 컴퓨터 비전 논문 리스트
-
+## Computer Vision (CV) Paper List
 * [Image classification](/paper/classification/README.md)
 * [Semantic segmentation](/paper/segmentation/README.md)
 * [Object detection](/paper/object_detection/README.md)
+* [Generative modeling](/paper/generative_modeling/README.md)
+
+## Natural Language Processing Paper List
+* [Language model](/paper/lm/README.md)
+* [Pretrained language model](/paper/plm/README.md)
+* [Translation](/paper/translation/README.md)
+* [Name Entity Recognition](/paper/ner/README.md)
+
+## Deep Learning Paper List
 * [Semi-supervised learning](/paper/semi_supervised_learning/README.md)
 * [Contrastive learning](/paper/contrastive_learning/README.md)
-* [Generative modeling](/paper/generative_modeling/README.md)
 * [Multi-task learning](/paper/multi_task_learning/README.md)
 * [Active learning](/paper/active_learning/README.md)
 * [Data augmentation](/paper/data_augmentation/README.md)
 * [Learning from noisy labels](/paper/noisy_labels/README.md)
 * [Uncertainty](/paper/uncertainty/README.md)
 * [Interpretability](/paper/interpretability/README.md)
-
-## 읽어보면 좋은 Natural Language Processing 논문 리스트
-* [Language model](/paper/lm/README.md)
-* [Pretrained language model](/paper/plm/README.md)
-* [Translation](/paper/translation/README.md)
-* [Name Entity Recognition](/paper/ner/README.md)
-* [Data augmentation](/paper/data_augmentation/README.md)
 
 ## 파이토치를 이용한 실습
 * [이미지 분류기 만들기](/torch_example/image_classifier/README.md)
