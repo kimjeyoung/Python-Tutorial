@@ -7,7 +7,6 @@ Python tutorial for beginner :)
 
 ## 읽어보면 좋은 컴퓨터 비전 논문 리스트
 
-* [Architecture](/paper/architecture)
 * [Image classification](/paper/classification)
 * [Semantic segmentation](/paper/segmentation)
 * [Object detection](/paper/object_detection)
