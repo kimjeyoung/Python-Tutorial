@@ -4,7 +4,7 @@ Here is an example of a recursive function that calculates the factorial of a gi
 
 ```python
 def factorial(n):
-    if n == 0:
+    if n == 1:
         return 1
     else:
         return n * factorial(n-1)
