@@ -53,3 +53,23 @@
 * [Learning from noisy labels](/paper/noisy_labels/README.md)
 * [Uncertainty](/paper/uncertainty/README.md)
 * [Interpretability](/paper/interpretability/README.md)
+
+## 읽어보면 좋은 Natural Language Processing 논문 리스트
+* [Language model](/paper/lm/README.md)
+* [Pretrained language model](/paper/plm/README.md)
+* [Translation](/paper/translation/README.md)
+* [Name Entity Recognition](/paper/ner/README.md)
+* [Data augmentation](/paper/data_augmentation/README.md)
+
+## 파이토치를 이용한 실습
+* [이미지 분류기 만들기](/torch_example/image_classifier/README.md)
+* [텍스트 분류기 만들기](/torch_example/image_classifier/README.md)
+* [번역기 만들기](/torch_example/image_classifier/README.md)
+* [생성모델 만들기](/torch_example/image_classifier/README.md)
+* [이미지 배경화면 지우기](/torch_example/image_classifier/README.md)
+* [이미지 속 물체 검출기 만들기](/torch_example/image_classifier/README.md)
+* [이상치 데이터 검출하기](/torch_example/image_classifier/README.md)
+* [Semi-supervised learning 적용해보기](/torch_example/image_classifier/README.md)
+* [Multi-task learning 적용해보기](/torch_example/image_classifier/README.md)
+
+
