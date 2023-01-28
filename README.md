@@ -32,6 +32,7 @@ This repository is designed for anyone who wants to become a machine learning en
 
 ## Numpy Library
 * [Numpy](/numpy/basic/README.md)
+* [Basic syntax](/numpy/syntax/README.md)
 
 ## Pandas Library
 * [Pandas](/pandas/basic/README.md)
