@@ -1,5 +1,13 @@
 # ML-Tutorial for beginner
 
+Deep learning is a rapidly growing field within machine learning, and has the ability to solve problems that traditional machine learning methods cannot. With the increasing demand for artificial intelligence and automation, deep learning has become an essential skill for machine learning engineers.
+
+This repository is designed to provide a comprehensive introduction to deep learning for machine learning engineers, both for those just starting out and for those looking to expand their knowledge. It covers key topics such as neural networks, convolutional neural networks, and recurrent neural networks, and provides hands-on examples to help you understand and apply the concepts easily.
+
+The repository covers a wide range of practical applications of deep learning, including image recognition, natural language processing and more. The repository also includes case studies and real-world examples to help readers understand the potential of deep learning and its potential to solve complex problems.
+
+This repository is designed for anyone who wants to become a machine learning engineer. It is also a great resource for students and professionals who want to learn more about deep learning and its applications. 
+
 
 ## 개발환경 세팅하기
 * [Visual Studio 설치](/setup/visual_studio/README.md)
