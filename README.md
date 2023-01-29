@@ -9,8 +9,8 @@ This repository is designed for anyone who wants to become a machine learning en
 * [Anaconda 가상환경 세팅하기](/setup/conda/README.md)
 
 ## Python 기초다지기 :fire:
-* [Introduction](/grammer/intro/README.md)
-* Basic syntax
+* **[Introduction](/grammer/intro/README.md)**
+* **Basic syntax**
   * [Arithmetic](/grammer/operations/README.md)
   * [Loop](/grammer/loop/README.md)
   * [List,Tuple,Dict](/grammer/data_type/README.md)
@@ -18,19 +18,21 @@ This repository is designed for anyone who wants to become a machine learning en
   * [Sorting](/grammer/sorting/README.md)
   * [Function](/grammer/function/README.md)
   * [Class](/grammer/class/README.md)
-* Python libraries for data science
+* **Python libraries for data science**
   * Numpy [[Overview]](/numpy/basic/README.md) [[Basic syntax]](/numpy/syntax/README.md)
   * Pandas [[Overview]](/pandas/basic/README.md) [[Basic syntax]](/pandas/syntax/README.md)
   * Matplotlib [[Overview]](/matplotlib/basic/README.md) [[Basic syntax]](/matplotlib/syntax/README.md)
 
 ## Computer Science 기초 :fire:
-* 자료구조
+* **프로그래밍**
+  * 객체지향 프로그래밍
+* **자료구조**
   * [Recursive function](/coding_test/recursive/README.md)
   * [Breadth-first search ](/coding_test/bfs/README.md)
   
 ## Mathematics For Machine Learning :fire:
-* 기초통계
-* 선형대수
+* **기초통계**
+* **선형대수**
 
 
 ## 코드로 배우는 머신러닝 기본 개념 :fire:
