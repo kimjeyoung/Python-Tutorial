@@ -10,8 +10,8 @@ This repository is designed for anyone who wants to become a machine learning en
 
 
 ## Setup
-* [Visual Studio 설치](/setup/visual_studio/README.md)
-* [Anaconda 가상환경 세팅하기](/setup/anaconda/README.md)
+* Visual Studio 설치 [Mac](https://www.lainyzine.com/ko/article/how-to-install-visual-studio-code-on-macos/)
+* Anaconda 설치 [Mac](https://jsikim1.tistory.com/186)
 
 ## Python Basic Syntax
 * [Introduction](/grammer/intro/README.md)
