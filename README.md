@@ -18,6 +18,8 @@ This repository is designed for anyone who wants to become a machine learning en
   * [정렬](/grammer/sorting/README.md)
   * [함수](/grammer/function/README.md)
   * [클래스](/grammer/class/README.md)
+* **Python 문법과 친숙해지기**
+  * 프로그래머스 코딩 테스트 입문 [[LINK]](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&page=1&languages=python3)[[코드 및 해설]]
 * **Python libraries for data science**
   * Numpy [[Overview]](/numpy/basic/README.md) [[Basic syntax]](/numpy/syntax/README.md)
   * Pandas [[Overview]](/pandas/basic/README.md) [[Basic syntax]](/pandas/syntax/README.md)
