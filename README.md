@@ -44,8 +44,8 @@ This repository is designed for anyone who wants to become a machine learning en
 
 
 ## 코드로 배우는 머신러닝 기본 개념 :fire:
-* [Logistic Regression](/ml_code/logistic_regression/README.md)
-* [Logistic Classification](/ml_code/logistic_classification/README.md)
+* [Linear Regression](/ml_code/logistic_regression/README.md)
+* [Logistic Regression](/ml_code/logistic_classification/README.md)
 * [Decision Tree](/ml_code/decision_tree/README.md)
 * [Random Forest](/ml_code/random_forest/README.md)
 * [Multi-Layer Perceptron](/ml_code/mlp/README.md)
