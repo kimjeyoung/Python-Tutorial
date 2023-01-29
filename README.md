@@ -3,10 +3,15 @@
 This repository is designed for anyone who wants to become a machine learning engineer :)
 
 
-## Setup :fire:
-* Visual Studio 설치 [[Mac]](https://www.lainyzine.com/ko/article/how-to-install-visual-studio-code-on-macos/)
-* Anaconda 설치 [[Mac]](https://jsikim1.tistory.com/186)
-* [Anaconda 가상환경 세팅하기](/setup/conda/README.md)
+## 개발환경 구축하기 :fire:
+* **Visual Studio** 
+  * 설치 [[Mac]](https://www.lainyzine.com/ko/article/how-to-install-visual-studio-code-on-macos/)
+* **Anaconda** 
+  * 설치 [[Mac]](https://jsikim1.tistory.com/186)
+  * [Anaconda 가상환경 세팅하기](/setup/conda/README.md)
+* **Github**
+
+* **알아두면 유용한 터미널 명령어**
 
 ## Python 기초다지기 :fire:
 * **[Introduction](/grammer/intro/README.md)**
