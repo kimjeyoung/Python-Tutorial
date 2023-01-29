@@ -1,9 +1,5 @@
 # Machine Learning Tutorial for Beginners
 
-This repository is designed to provide a comprehensive introduction to deep learning for machine learning engineers, both for those just starting out and for those looking to expand their knowledge. We provide hands-on examples to help you understand and apply the concepts easily.
-
-The repository covers a wide range of practical applications of deep learning, including image recognition, natural language processing and more. The repository also includes case studies and real-world examples to help readers understand the potential of deep learning and its potential to solve complex problems.
-
 This repository is designed for anyone who wants to become a machine learning engineer :)
 
 
@@ -12,28 +8,29 @@ This repository is designed for anyone who wants to become a machine learning en
 * Anaconda 설치 [[Mac]](https://jsikim1.tistory.com/186)
 * [Anaconda 가상환경 세팅하기](/setup/conda/README.md)
 
-## Python Basic Syntax
+## Python 기초다지기
 * [Introduction](/grammer/intro/README.md)
-* [Arithmetic](/grammer/operations/README.md)
-* [Loop](/grammer/loop/README.md)
-* [List,Tuple,Dict](/grammer/data_type/README.md)
-* [String](/grammer/string/README.md)
-* [Sorting](/grammer/sorting/README.md)
-* [Function](/grammer/function/README.md)
-* [Class](/grammer/class/README.md)
-
-## Problem solving
-* [프로그래머스 코딩 테스트 입문 100제](https://school.programmers.co.kr/learn/challenges?utm_source=google&utm_medium=cpc&utm_campaign=codingtest_test&utm_content=%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8&utm_term=&gclid=CjwKCAiArNOeBhAHEiwAze_nKA0add9ucnnlSkePQ3zwa0Gd9KN-o42ZrlrGFjrpn69AFm4fQUwgWxoCl9cQAvD_BwE&order=acceptance_desc&page=1&levels=0&languages=python3)
+* Basic syntax
+  * [Arithmetic](/grammer/operations/README.md)
+  * [Loop](/grammer/loop/README.md)
+  * [List,Tuple,Dict](/grammer/data_type/README.md)
+  * [String](/grammer/string/README.md)
+  * [Sorting](/grammer/sorting/README.md)
+  * [Function](/grammer/function/README.md)
+  * [Class](/grammer/class/README.md)
+* Python libraries for data science
+  * Numpy [[Overview]](/numpy/basic/README.md) [[Basic syntax]](/numpy/syntax/README.md)
+  * Pandas [[Overview]](/pandas/basic/README.md) [[Basic syntax]](/pandas/syntax/README.md)
+  * Matplotlib [[Overview]](/matplotlib/basic/README.md) [[Basic syntax]](/matplotlib/syntax/README.md)
 
 ## Computer Science 기초
 * 자료구조
   * [Recursive function](/coding_test/recursive/README.md)
   * [Breadth-first search ](/coding_test/bfs/README.md)
-
-## Python Libraries for Data Science
-* Numpy [[Overview]](/numpy/basic/README.md) [[Basic syntax]](/numpy/syntax/README.md)
-* Pandas [[Overview]](/pandas/basic/README.md) [[Basic syntax]](/pandas/syntax/README.md)
-* Matplotlib [[Overview]](/matplotlib/basic/README.md) [[Basic syntax]](/matplotlib/syntax/README.md)
+  
+## Mathematics For Machine Learning
+* 기초통계
+* 선형대수
 
 
 ## 코드로 배우는 머신러닝 기본 개념
