@@ -11,13 +11,13 @@ This repository is designed for anyone who wants to become a machine learning en
 ## Python 기초다지기 :fire:
 * **[Introduction](/grammer/intro/README.md)**
 * **Basic syntax**
-  * [Arithmetic](/grammer/operations/README.md)
-  * [Loop](/grammer/loop/README.md)
-  * [List,Tuple,Dict](/grammer/data_type/README.md)
-  * [String](/grammer/string/README.md)
-  * [Sorting](/grammer/sorting/README.md)
-  * [Function](/grammer/function/README.md)
-  * [Class](/grammer/class/README.md)
+  * [사칙연산](/grammer/operations/README.md)
+  * [반복문](/grammer/loop/README.md)
+  * [리스트,튜플,딕셔너리](/grammer/data_type/README.md)
+  * [문자열](/grammer/string/README.md)
+  * [정렬](/grammer/sorting/README.md)
+  * [함수](/grammer/function/README.md)
+  * [클래스](/grammer/class/README.md)
 * **Python libraries for data science**
   * Numpy [[Overview]](/numpy/basic/README.md) [[Basic syntax]](/numpy/syntax/README.md)
   * Pandas [[Overview]](/pandas/basic/README.md) [[Basic syntax]](/pandas/syntax/README.md)
