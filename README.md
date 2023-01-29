@@ -31,15 +31,10 @@ This repository is designed for anyone who wants to become a machine learning en
 * [Recursive function](/coding_test/recursive/README.md)
 * [Breadth-first search ](/coding_test/bfs/README.md)
 
-## Numpy Library
-* [Numpy](/numpy/basic/README.md)
-* [Basic syntax](/numpy/syntax/README.md)
-
-## Pandas Library
-* [Pandas](/pandas/basic/README.md)
-
-## 데이터 시각화
-* [Matplotlib](/visualization/matplotlib/README.md)
+## Python Libraries for Data Science
+* Numpy [[Overview]](/numpy/basic/README.md) [[Basic syntax]](/numpy/syntax/README.md)
+* Pandas [[Overview]](/pandas/basic/README.md) [[Basic syntax]](/pandas/syntax/README.md)
+* Matplotlib [[Overview]](/matplotlib/basic/README.md) [[Basic syntax]](/matplotlib/syntax/README.md)
 
 
 ## 코드로 배우는 머신러닝 기본 개념
