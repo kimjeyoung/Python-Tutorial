@@ -7,12 +7,18 @@ This repository is designed for anyone who wants to become a machine learning en
 * **Visual Studio** 
   * 설치 [[Mac]](https://www.lainyzine.com/ko/article/how-to-install-visual-studio-code-on-macos/)
   * [실습에 사용할 프로젝트 생성하기](/setup/visual_studio/README.md)
+  
+* **터미널과 친해지기**
+  * [터미널이 뭔가요?](/setup/terminul_intro/README.md)
+  * [알아두면 유용한 터미널 명령어](/setup/terminul_collection/README.md)
+  
 * **Anaconda** 
   * 설치 [[Mac]](https://jsikim1.tistory.com/186)
   * [Anaconda 가상환경 세팅하기](/setup/conda/README.md)
+
 * **Github**
 
-* **알아두면 유용한 터미널 명령어**
+
 
 ## Python 기초다지기 :fire:
 * **[Introduction](/grammer/intro/README.md)**
