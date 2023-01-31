@@ -6,7 +6,7 @@ This repository is designed for anyone who wants to become a machine learning en
 ## 개발환경 구축하기 :fire:
 * **Visual Studio** 
   * 설치 [[Mac]](https://www.lainyzine.com/ko/article/how-to-install-visual-studio-code-on-macos/)
-  * [프로젝트 생성하기](/setup/visual_studio/README.md)
+  * [실습에 사용할 프로젝트 생성하기](/setup/visual_studio/README.md)
 * **Anaconda** 
   * 설치 [[Mac]](https://jsikim1.tistory.com/186)
   * [Anaconda 가상환경 세팅하기](/setup/conda/README.md)
