@@ -12,7 +12,7 @@
 
 * Clone from URL https://github.com/kimjeyoung/Python-Tutorial.git 을 클릭합니다.
 
-   <img src=/setup/imgs/clone_from_url.png width="50%" height="50%">
+   <img src=/setup/imgs/clone_from_url_tutorial.png width="50%" height="50%">
    
 * 그 다음, 처음에 만들었던 데스크탑 폴더의 "workspace"를 클릭하고 "select repository location" 버튼을 클릭하게되면 
 
