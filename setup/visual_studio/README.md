@@ -8,7 +8,7 @@
 
    <img src=/setup/imgs/clone_start.png width="50%" height="50%">
 
-* Clone from URL https://github.com/kimjeyoung/Python-Tutorial.git 을 클릭합니다.
+* 하단에 생기는 Clone from URL https://github.com/kimjeyoung/Python-Tutorial.git 을 클릭합니다.
 
    <img src=/setup/imgs/clone_from_url_tutorial.png width="50%" height="50%">
    
