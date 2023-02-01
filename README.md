@@ -1,6 +1,7 @@
 # Machine Learning Tutorial for Beginners :heartpulse:
 
-This repository is designed for anyone who wants to become a machine learning engineer :)
+이 공간은 머신러닝 엔지니어로 취업을 희망하시거나, 머신러닝을 처음 접하시는 분들을 위해   
+제가 머신러닝 엔지니어가 되기까지 공부해왔던 순서, 경험, 그리고 공부해오면서 도움이 됐던 블로그, 강의들을 정리해본 공간입니다 :)  
 
 
 ## 시작이 반이다..! 개발환경 구축하기 :fire:
