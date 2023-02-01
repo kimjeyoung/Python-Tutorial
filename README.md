@@ -13,6 +13,7 @@ This repository is designed for anyone who wants to become a machine learning en
   * [알아두면 유용한 터미널 명령어](/setup/terminul_collection/README.md)
   
 * **Anaconda** 
+  * [아나콘다란?](/setup/conda_intro/README.md)
   * 설치 [[Mac]](https://jsikim1.tistory.com/186)
   * [Anaconda 가상환경 세팅하기](/setup/conda/README.md)
 
