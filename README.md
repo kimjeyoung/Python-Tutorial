@@ -18,7 +18,7 @@ This repository is designed for anyone who wants to become a machine learning en
   * [Anaconda 가상환경 세팅하기](/setup/conda/README.md)
 
 * **Github**
-  * [무료강의](https://www.inflearn.com/course/git-and-github#curriculum)
+  * [무료 인프런 강의](https://www.inflearn.com/course/git-and-github#curriculum)
 
 
 
